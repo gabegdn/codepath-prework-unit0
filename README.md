@@ -8,7 +8,7 @@
 
 
   <!--<img src="GIF URL HERE" width=200><br>  OR -->
-  <img src="blob:https://gifcap.dev/56438c9a-2a03-4c6f-bb6b-e42a27708926" width=200><br> 
+  <img src="https://gifcap.dev/56438c9a-2a03-4c6f-bb6b-e42a27708926" width=200><br> 
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
