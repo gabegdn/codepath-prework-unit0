@@ -8,7 +8,7 @@
 
 
   <!--<img src="GIF URL HERE" width=200><br>  OR -->
-  <img src="/Users/gabrielnavarro/Downloads/prework-introduceYourself-gif.gif" width=200><br> 
+  <img src="https://imgur.com/a/OFxgSqJ" width=200><br> 
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
